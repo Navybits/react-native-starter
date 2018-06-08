@@ -5323,9 +5323,9 @@ mobx-persist@0.4.1:
   dependencies:
     serializr "^1.1.11"
 
-mobx-react@5.1.2:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/mobx-react/-/mobx-react-5.1.2.tgz#ec5c2d29a1df823dbd1b37e214fa36a0907054e2"
+mobx-react@5.2.2:
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/mobx-react/-/mobx-react-5.2.2.tgz#63a84b093e9a4facdcc5869c03d7db6406890e67"
   dependencies:
     hoist-non-react-statics "^2.5.0"
     react-lifecycles-compat "^3.0.2"
