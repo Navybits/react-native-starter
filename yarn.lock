@@ -5330,9 +5330,9 @@ mobx-react@5.1.2:
     hoist-non-react-statics "^2.5.0"
     react-lifecycles-compat "^3.0.2"
 
-mobx@4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/mobx/-/mobx-4.2.1.tgz#dd4190daf1b43d41a3a228585253f9970b0a27dd"
+mobx@5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.0.2.tgz#ea8d208eb36e9443707230d77a250f2fdd295dfb"
 
 mocha@5.1.1:
   version "5.1.1"
